@@ -1,0 +1,24 @@
+.content {
+    min-height: 100%;
+}
+
+ul {
+    display: flex; justify-content: center;
+}
+li {
+    padding: 15px 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    font-family: Verdana;
+}
+
+.contacts {
+    width: 100%;
+    margin: 0 auto;
+    font-family: Verdana;
+    font-size: 15px;
+    margin: 20px 0;
+}

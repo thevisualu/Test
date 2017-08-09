@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background:no-repeat url('http://dspncdn.com/a1/media/692x/7c/3e/21/7c3e218477b2227e692d0fc8b44a5b98.jpg');
+    background-position: 100% 70%;
+}
+
+.content {
+    min-height: 100%;
+}
+
+.footer {
+    height: 20px;
+    margin-top: -20px;
+    align: center;
+    display: flex; justify-content: center;
+    font-family: Verdana;
+    font-size: 10px;
+}
+
+.footer-buffer {
+    height: 100px;
+}
+
+.column {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-wrapper {
+    width: 100%;
+    margin: 20% 0;
+    font-family: Verdana;
+    font-size: 20px;
+
+}
+
+ul {
+    display: flex; justify-content: center;
+}
+li {
+    padding: 15px 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    font-family: Verdana;
+}
